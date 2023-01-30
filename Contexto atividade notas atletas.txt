@@ -1,0 +1,6 @@
+
+Esta atividade se trata de uma avaliação.
+O contexto é uma competição de ginástica, com quatro atletas.
+Cada atleta, após sua participação, recebe uma nota de cada jurado, e um total de cinco notas.
+O propósito da atividade é receber o nome de cada atleta, suas respectivas notas, excluir
+a nota mais alta e a nota mais baixa, e retornar a média das três notas restantes.
